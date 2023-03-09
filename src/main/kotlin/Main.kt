@@ -28,7 +28,7 @@ fun main() {
     }
     open fun calculateParkingFees(hours:Int):Int{
         var parkingfees= hours * 20
-        return parkingfees
+         return parkingfees
     }
 
 }
